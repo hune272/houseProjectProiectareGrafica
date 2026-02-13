@@ -1,0 +1,8 @@
+# ninja log v6
+30	1535	7906977701616700	CMakeFiles/lab2.dir/DebugRenderer.cpp.obj	47d1a34684bb3d5e
+24	1704	7906977701556683	CMakeFiles/lab2.dir/src/ObjModel.cpp.obj	3b3e4261976daa17
+36	2689	7906977701666695	CMakeFiles/lab2.dir/external/tinyobj/tiny_obj_loader.cc.obj	6c2dae4a2341f718
+17	2772	7906977701486671	CMakeFiles/lab2.dir/main.cpp.obj	62317ac703617bb
+2772	2958	7906977729038083	lab2.exe	f3616f2fd9c0fbf7
+7	2476	7906985966032338	CMakeFiles/lab2.dir/main.cpp.obj	62317ac703617bb
+2476	2629	7906985990719839	lab2.exe	f3616f2fd9c0fbf7
